@@ -1,0 +1,37 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+1,Mobile Phone,Electronics,Smartphones,9000,14000
+2,Earbuds,Electronics,Audio,600,1500
+3,Power Bank,Electronics,Accessories,500,1100
+4,Smart Watch,Electronics,Wearables,1500,3200
+5,Bluetooth Speaker,Electronics,Audio,900,2200
+6,Laptop,Electronics,Computers,28000,42000
+7,Tablet,Electronics,Computers,9000,15000
+8,USB Cable,Electronics,Accessories,80,250
+9,Men Casual Shirt,Fashion,Menswear,350,900
+10,Women Kurta,Fashion,Womenswear,400,1100
+11,Running Shoes,Fashion,Footwear,900,2400
+12,Jeans,Fashion,Menswear,500,1400
+13,Saree,Fashion,Womenswear,700,2200
+14,Backpack,Fashion,Accessories,300,900
+15,Sunglasses,Fashion,Accessories,200,800
+16,Sneakers,Fashion,Footwear,800,2000
+17,Mixer Grinder,Home & Kitchen,Appliances,1400,3000
+18,Pressure Cooker,Home & Kitchen,Cookware,600,1500
+19,Bedsheet Set,Home & Kitchen,Furnishing,350,1100
+20,Water Bottle,Home & Kitchen,Cookware,120,400
+21,LED Bulb Pack,Home & Kitchen,Lighting,150,450
+22,Air Fryer,Home & Kitchen,Appliances,2500,5200
+23,Dinner Set,Home & Kitchen,Cookware,800,2200
+24,Curtains,Home & Kitchen,Furnishing,300,900
+25,Data Analytics Book,Books & Stationery,Books,250,600
+26,Notebook Pack,Books & Stationery,Stationery,60,180
+27,Fiction Novel,Books & Stationery,Books,120,350
+28,Pen Set,Books & Stationery,Stationery,40,150
+29,Planner Diary,Books & Stationery,Stationery,100,300
+30,Exam Guide,Books & Stationery,Books,150,450
+31,Face Wash,Beauty & Health,Skincare,70,220
+32,Moisturiser,Beauty & Health,Skincare,120,400
+33,Shampoo,Beauty & Health,Haircare,100,320
+34,Protein Powder,Beauty & Health,Nutrition,900,2200
+35,Vitamin Tablets,Beauty & Health,Nutrition,200,550
+36,Perfume,Beauty & Health,Fragrance,300,1100
